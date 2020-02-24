@@ -1,8 +1,8 @@
 # Ressources
 
-## Programming Languages
+## Programming Languages Theory
 
-### Theory
+### Type Theory
 
 #### Papers
 
@@ -25,6 +25,7 @@
 - [Algebraic Effects For The Rest Of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
 - [Programming Language Foundation In Agda](https://plfa.github.io/)
 - [Computational Category Theory](https://jeremykun.com/main-content)
+
 ### Interpreter
 
 #### Tutorials
