@@ -42,17 +42,16 @@
 #### Books
 
 - [Dragon Book/Compilers Principles, Techniques And Tools](http://index-of.es/Varios-2/Compilers.pdf)
-#### Blog Posts/ Tutorials
+#### Blog Posts/Tutorials
 
 - [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
+- [Simple JIT in Rust](http://www.jonathanturner.org/2015/12/building-a-simple-jit-in-rust.html)
 
 ### Typecheckers
 
+#### Blog Posts/Tutorials
+
 - [Algorithm W in Typescript](https://medium.com/@dhruvrajvanshi/type-inference-for-beginners-part-1-3e0a5be98a4b)
-
-#### Tutorial
-
-- [Simple JIT in Rust](http://www.jonathanturner.org/2015/12/building-a-simple-jit-in-rust.html)
 - [Prolog interpreter in C#](https://www.benjamin.pizza/posts/2019-12-01-write-you-a-prolog.html)
 
 ## Maths
