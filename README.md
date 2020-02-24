@@ -31,6 +31,7 @@
 #### Tutorials
 - [Write Yourself A Scheme in 48H (Haskell)](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 - [Crafting Interpreters (Java and C)](https://craftinginterpreters.com/)
+- [Prolog interpreter in C#](https://www.benjamin.pizza/posts/2019-12-01-write-you-a-prolog.html)
 
 ### Compilers
 
@@ -42,6 +43,7 @@
 #### Books
 
 - [Dragon Book/Compilers Principles, Techniques And Tools](http://index-of.es/Varios-2/Compilers.pdf)
+  
 #### Blog Posts/Tutorials
 
 - [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
