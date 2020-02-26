@@ -48,7 +48,7 @@
 
 - [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 - [Simple JIT in Rust](http://www.jonathanturner.org/2015/12/building-a-simple-jit-in-rust.html)
-
+- [Adventures In Jit Compilation](https://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-1-an-interpreter/)
 ### Typecheckers
 
 #### Blog Posts/Tutorials
