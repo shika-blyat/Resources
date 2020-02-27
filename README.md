@@ -69,7 +69,7 @@
 
 ### Miscellaneous
 
-- [Introduction to Mathematical Thinking](ntroduction-Mathematical-Thinking-Keith-Devlin)
+- [Discrete Mathematics And Its Application](pdfs/Discrete_Mathematics_And_Its_Applications.pdf)
 - [A Programmer Introduction To Mathematics](https://gumroad.com/l/pim-book)
 
 
