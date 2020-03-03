@@ -12,7 +12,7 @@
 #### Books
 
 - [Gentle Introduction To Dependent Types With Idris](https://leanpub.com/gidti)
-- [Types And Programming Languages](http://ropas.snu.ac.kr/~kwang/520/pierce_book.pdf)
+- [Types And Programming Languages](https://theswissbay.ch/pdf/Gentoomen%20Library/Maths/Comp%20Sci%20Math/Benjamin_C._Pierce-Types_and_Programming_Languages-The_MIT_Press%282002%29.pdf)
 - [Proofs And Types](http://www.paultaylor.eu/stable/prot.pdf)
 - [Advanced Topics In Types And Programming Languages](http://index-of.co.uk/Mathematics/Benjamin_C._Pierce-Advanced_topics_in_types_and_programming_languages-The_MIT_Press(2004).pdf)
 - [Intuitionistic Type Theory](https://www.csie.ntu.edu.tw/~b94087/ITT.pdf)
